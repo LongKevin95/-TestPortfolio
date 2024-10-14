@@ -157,6 +157,7 @@ h2 {
 #contact p {
   padding-bottom: 5px;
   text-align: center;
+  white-space: nowrap;
 }
 #contact p {
   font-size: 1.3rem;
